@@ -50,7 +50,7 @@ const wallets = [
     thumb: 'wallets/gift.png',
     platform: 'gift',
     nama: 'Reva Hamidah',
-    alamat: 'Perum Grand Appel Bojong Malaka Kec Pameungpeuk Kab Bandung',
+    alamat: 'Perum Grand Appel Duren Buah Jatuh',
     tujuan: 'sending gift'
   }
 ]

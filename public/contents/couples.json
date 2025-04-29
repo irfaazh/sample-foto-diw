@@ -1,19 +1,19 @@
 {
 	"couples": [
 		{
-			"name": "Moch. Akmal Abdullah",
+			"name": "Fulan",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "https://www.instagram.com/aabduulllaaahh" }
+				{ "icon": "fab fa-instagram", "link": "https://www.instagram.com/diw.project" }
 			],
-			"parents": ["Ihak Syarifudin", "Rika Solaeha"],
+			"parents": ["Fulan", "Fulanah"],
 			"thumb": "/couples/couple-male.jpg"
 		},
 		{
-			"name": "Reva Hamidah",
+			"name": "Fulanah",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "https://www.instagram.com/haimidah22" }
+				{ "icon": "fab fa-instagram", "link": "https://www.instagram.com/diw.project" }
 			],
-			"parents": ["Alm. Ngaspan", "Alis Farida"],
+			"parents": ["Fulan", "Fulanah"],
 			"thumb": "/couples/couple-female.jpg"
 		}
 	]

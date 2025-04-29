@@ -9,6 +9,8 @@ import './style/app.css'
 import 'animate.css'
 import 'aos/dist/aos.css'
 import 'viewerjs/dist/viewer.css'
+import '@fortawesome/fontawesome-free/css/all.css'
+
 
 const pinia = createPinia()
 

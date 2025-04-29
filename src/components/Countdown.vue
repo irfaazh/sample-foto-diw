@@ -56,8 +56,8 @@ const createTimer = (target, container, onFinish) => {
   }
 }
 
-// Tanggal target: 9 September 2025 pukul 08:30 WIB
-const targetDate = new Date('2025-09-09T08:30:00+07:00').getTime()
+// Tanggal target: 30 Desember 2080 pukul 08:30 WIB
+const targetDate = new Date('2029-12-30T08:30:00+07:00').getTime()
 
 onMounted(() => {
   // Mulai countdown
