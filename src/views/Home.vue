@@ -5,6 +5,7 @@
     <GroomBride></GroomBride>
     <Timelines v-on:goToGuestBook="navigationHandler('#guest-book')"></Timelines>
     <OurGallery></OurGallery>
+     <OurStory></OurStory>
     <Envelope id="envelope"></Envelope>
     <GuestBook id="guest-book"></GuestBook>
     <End id="end"></End>
@@ -12,7 +13,6 @@
 </template>
 
 <script setup>
-
 import MainCover from '@/components/MainCover.vue'
 import GroomBride from '@/components/GroomBride.vue'
 import Timelines from '@/components/Timelines.vue'
